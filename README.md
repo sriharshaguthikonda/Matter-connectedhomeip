@@ -44,6 +44,12 @@
 
 -   [Matter SDK documentation page](https://project-chip.github.io/connectedhomeip-doc/index.html)
 
+
+ESP compatible boards : 
+
+Modules are based on ESP32-C3 (ESP8685), ESP32-C2 (ESP8684), and ESP32-H2, all of which come pre-programmed with firmware for the required device types.
+
+
 # About
 
 Matter (formerly Project CHIP) creates more connections between more objects,
